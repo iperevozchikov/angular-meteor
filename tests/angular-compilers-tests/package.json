@@ -5,11 +5,11 @@
     "test": "TEST_SERVER=0 TEST_BROWSER_DRIVER=phantomjs meteor test --once --port 3005 --driver-package=ardatan:mocha"
   },
   "dependencies": {
-    "@angular/common": "^4.4.5",
-    "@angular/compiler": "^4.4.5",
-    "@angular/core": "^4.4.5",
-    "@angular/platform-browser": "^4.4.5",
-    "@angular/platform-browser-dynamic": "^4.4.5",
+    "@angular/common": "^5.0.0",
+    "@angular/compiler": "^5.0.0",
+    "@angular/core": "^5.0.0",
+    "@angular/platform-browser": "^5.0.0",
+    "@angular/platform-browser-dynamic": "^5.0.0",
     "babel-runtime": "^6.26.0",
     "meteor-node-stubs": "^0.3.0",
     "rxjs": "5.5.2",
